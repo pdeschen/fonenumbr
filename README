@@ -1,0 +1,39 @@
+/*
+ * Copyright (c) 2010 pdeschen@rassemblr.com
+ * Apache License 2.0 http://www.apache.org/licenses/LICENSE-2.0.html
+ */
+
+A Phone Number Validation REST API
+
+/* 
+Simply determine whether this international phone number is valid or not.
+
+Examples:
+GET /validator/+15145813246
+GET /validator/+6433316005
+GET /validator/+64%203%20331%206005
+GET /validator/+5493435551212
+GET /validator/+442034567890x456
+GET /validator/+442034567890x456
+*/
+
+GET /validator/+[0-9]*
+
+/*
+For the provided 2 letter ISO 3166-1 country code, determine whether the phone number is valid
+
+Examples:
+GET /validator/CA/5148613246
+GET /validator/US/(650) 253-0000
+GET /validator/US/Tel:+800-345-600
+GET /validator/UK/+44 2034567890 X456
+GET /validator/NZ/001800 SIX-FLAG  
+*/
+
+GET /validator/[A-Z]{2}/(.*)
+
+/*
+For the provided 2 letter ISO 3166-1 country code, obtain phone number details of the specified format 
+
+*/
+GET /validator/(international|national|e164/[A-Z]{2}/(.*)
