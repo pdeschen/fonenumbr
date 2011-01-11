@@ -1,0 +1,25 @@
+<classpath>
+  <classpathentry kind="output" path="build/classes/main"/>
+  <classpathentry output="build/classes/main" kind="src" path="src/main/java"/>
+  <classpathentry output="build/classes/test" kind="src" path="src/test/java"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/org.codehaus.jackson/jackson-core-asl/sources/jackson-core-asl-1.6.4-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/org.codehaus.jackson/jackson-core-asl/jars/jackson-core-asl-1.6.4.jar" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/junit/junit/sources/junit-4.8.2-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/junit/junit/jars/junit-4.8.2.jar" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/org.mortbay.jetty/jetty/sources/jetty-6.1.26-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/org.mortbay.jetty/jetty/jars/jetty-6.1.26.jar" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/javax.annotation/jsr250-api/sources/jsr250-api-1.0-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/javax.annotation/jsr250-api/jars/jsr250-api-1.0.jar" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/org.slf4j/slf4j-api/sources/slf4j-api-1.5.8-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.5.8.jar" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/org.mortbay.jetty/servlet-api/sources/servlet-api-2.5-20081211-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/org.mortbay.jetty/servlet-api/jars/servlet-api-2.5-20081211.jar" exported="true"/>
+  <classpathentry kind="lib" path="/home/pdeschen/.gradle/cache/commons-httpclient/commons-httpclient/jars/commons-httpclient-3.1.jar" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/org.jboss.resteasy/jaxrs-api/sources/jaxrs-api-1.1.GA-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/org.jboss.resteasy/jaxrs-api/jars/jaxrs-api-1.1.GA.jar" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/org.codehaus.jackson/jackson-jaxrs/sources/jackson-jaxrs-1.6.4-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/org.codehaus.jackson/jackson-jaxrs/jars/jackson-jaxrs-1.6.4.jar" exported="true"/>
+  <classpathentry kind="lib" path="/home/pdeschen/.gradle/cache/commons-codec/commons-codec/jars/commons-codec-1.2.jar" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/org.slf4j/slf4j-simple/sources/slf4j-simple-1.5.8-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/org.slf4j/slf4j-simple/jars/slf4j-simple-1.5.8.jar" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/org.codehaus.jackson/jackson-mapper-asl/sources/jackson-mapper-asl-1.6.4-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/org.codehaus.jackson/jackson-mapper-asl/jars/jackson-mapper-asl-1.6.4.jar" exported="true"/>
+  <classpathentry kind="lib" path="/home/pdeschen/git/personal/fonenumbr/lib/libphonenumber-2.4.jar" exported="true"/>
+  <classpathentry kind="lib" path="/home/pdeschen/.gradle/cache/org.scannotation/scannotation/jars/scannotation-1.0.2.jar" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/javax.activation/activation/sources/activation-1.1-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/javax.activation/activation/jars/activation-1.1.jar" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/org.jboss.resteasy/resteasy-jaxrs/sources/resteasy-jaxrs-1.1.GA-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/org.jboss.resteasy/resteasy-jaxrs/jars/resteasy-jaxrs-1.1.GA.jar" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/org.mortbay.jetty/jetty-util/sources/jetty-util-6.1.26-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/org.mortbay.jetty/jetty-util/jars/jetty-util-6.1.26.jar" exported="true"/>
+  <classpathentry sourcepath="/home/pdeschen/.gradle/cache/org.slf4j/jcl-over-slf4j/sources/jcl-over-slf4j-1.5.8-sources.jar" kind="lib" path="/home/pdeschen/.gradle/cache/org.slf4j/jcl-over-slf4j/jars/jcl-over-slf4j-1.5.8.jar" exported="true"/>
+  <classpathentry kind="lib" path="/home/pdeschen/.gradle/cache/javassist/javassist/jars/javassist-3.6.0.GA.jar" exported="true"/>
+</classpath>
